@@ -6,7 +6,7 @@ A curated list of papers on **neural algorithmic reasoning** (NAR) and **machine
 
 These are usually treated as two literatures. They are listed together here because they share one commitment: **a computational task that a classical algorithm was previously performing is instead performed, wholly or in part, by a learned model.** That covers the network that emits the answer outright, the network judged against an algorithm's execution trace, the network replacing one decision inside an algorithm that otherwise runs unchanged, and the network replacing a subroutine the algorithm calls. It also covers the theory about whether any of that is possible, and the empirical work re-examining whether a reported instance of it held up.
 
-Two things here are not in other lists. **[Debates and Replications](#debates-and-replications)** lays out the published exchanges in order, including the replies — several widely repeated "refutations" are contested and are marked as such. **[What the Theory Actually Proves](#what-the-theory-actually-proves)** separates expressivity from learnability from generalisation, and records the assumption each result rests on.
+Two sections provide context for interpreting the bibliography. **[Debates and Replications](#debates-and-replications)** reconstructs published exchanges in chronological order, including replies and disagreements that remain unresolved. **[What the Theory Actually Proves](#what-the-theory-actually-proves)** separates expressivity, learnability and generalisation, and records the assumptions underlying each result.
 
 ## Contents
 
